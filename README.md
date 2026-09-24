@@ -122,6 +122,16 @@ const srayansh = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">

@@ -3,13 +3,9 @@
 <table width="100%" cellpadding="22" cellspacing="0" border="0" bgcolor="#050816">
   <tr>
     <td align="center" bgcolor="#0b1020" style="border: 1px solid #00f5ff; border-radius: 28px; box-shadow: 0 0 28px rgba(0, 245, 255, 0.35), 0 0 45px rgba(255, 0, 153, 0.18);">
-      <a href="https://github.com/shregreat">
-        <img src="https://avatars.githubusercontent.com/u/177392159?v=4" width="165" alt="Srayansh Singh Verma" style="border-radius: 50%; border: 3px solid #00f5ff; box-shadow: 0 0 30px rgba(0,245,255,0.8), 0 0 50px rgba(255,0,153,0.45);" />
-      </a>
-      <br /><br />
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7f00ff,100:ff00aa&height=170&section=header&text=SRAYANSH%20SINGH%20VERMA&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Neon name banner" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7f00ff,100:ff00aa&height=190&section=header&text=SRAYANSH%20SINGH%20VERMA&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="Animated neon background banner" width="100%" />
       <br />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00f5ff&center=true&vCenter=true&width=900&lines=FULL-STACK+DEVELOPER+IN+PROGRESS;BUILDING+USEFUL+DIGITAL+EXPERIENCES;DSA+%7C+SYSTEMS+%7C+WEB+TECHNOLOGIES;LEARN.+BUILD.+IMPROVE.+REPEAT." alt="Animated typing banner" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00f5ff&center=true&vCenter=true&width=900&lines=FULL-STACK+DEVELOPER+IN+PROGRESS;BUILDING+USEFUL+DIGITAL+EXPERIENCES;LEARNING+%C2%B7+BUILDING+%C2%B7+IMPROVING" alt="Animated introduction" />
       <br /><br />
       <p>
         <a href="https://github.com/shregreat?tab=repositories"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20Projects-7f00ff?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
@@ -51,9 +47,7 @@ const srayansh = {
 ## 🧬 Tech Arsenal
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mysql,git,github,docker,vscode&perline=9" alt="Technology stack" />
-
 </div>
 
 ---
@@ -91,18 +85,14 @@ const srayansh = {
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/shregreat?tab=repositories"><strong>ENTER THE FULL PORTFOLIO →</strong></a>
-</p>
+<p align="center"><a href="https://github.com/shregreat?tab=repositories"><strong>ENTER THE FULL PORTFOLIO →</strong></a></p>
 
 ---
 
 ## 🧩 Problem Solving
 
 <div align="center">
-
 <a href="https://leetcode.com/u/shre_great/"><img src="https://leetcard.jacoblin.cool/shre_great?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats" /></a>
-
 </div>
 
 ---
@@ -110,14 +100,10 @@ const srayansh = {
 ## 📊 GitHub Telemetry
 
 <div align="center">
-
-<a href="https://github.com/shregreat"><img height="165" src="https://github-readme-stats.vercel.app/api?username=shregreat&show_icons=true&hide_border=true&theme=tokyonight&title_color=00f5ff&icon_color=ff00aa&text_color=ffffff&bg_color=0b1020&rank_icon=github" alt="GitHub stats" /></a>
-<a href="https://github.com/shregreat"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shregreat&layout=compact&hide_border=true&theme=tokyonight&title_color=00f5ff&text_color=ffffff&bg_color=0b1020&langs_count=8" alt="Top languages" /></a>
-
+<a href="https://github.com/shregreat"><img height="165" src="https://github-readme-stats.vercel.app/api?username=shregreat&show_icons=true&hide_border=true&theme=tokyonight&title_color=00f5ff&icon_color=ff00aa" alt="GitHub stats" /></a>
+<a href="https://github.com/shregreat"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shregreat&layout=compact&hide_border=true&theme=tokyonight&title_color=00f5ff" alt="Top languages" /></a>
 <br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shregreat&theme=tokyonight&background=0b1020&ring=00f5ff&fire=ff00aa&currStreakLabel=00f5ff&hide_border=true" alt="GitHub streak" />
-
 </div>
 
 ---
@@ -125,9 +111,7 @@ const srayansh = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
-
 </div>
 
 ---
@@ -135,16 +119,12 @@ const srayansh = {
 ## 🌐 Connect With Me
 
 <div align="center">
-
 <a href="https://github.com/shregreat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00f5ff" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/srayansh-singh-verma-344343320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/shre_great/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 <a href="mailto:singhsrayansh5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
 <br /><br />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:7f00ff,100:050816&height=110&section=footer&animation=twinkling" alt="Neon footer" />
-
 </div>
 
 ---
